@@ -1,0 +1,5 @@
+.root {
+  font-family: var(--default-font);
+  font-weight: normal;
+  background: var(--brown-color);
+}
