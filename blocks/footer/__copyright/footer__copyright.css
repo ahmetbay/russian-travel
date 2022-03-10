@@ -1,0 +1,9 @@
+.footer__copyright {
+  font-family: var(--default-font);
+  color: var(--white-color);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.125;
+  margin: 0;
+}
