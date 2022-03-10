@@ -1,6 +1,7 @@
 # Проект: Путешествие по России
 
-Адаптивная верстка проекта\
+Адаптивная верстка проекта
+
 \
 брекпоинты:
 * 1280px
@@ -13,6 +14,15 @@
 * HTML
 * CSS
 * методология БЭМ
+
+\
+стили используют переменные которые описаны в verndors/varables.css
+* --default-font: Inter, Arial, sans-serif;
+* --back-color: #000;
+* --white-color: #fff;
+* --brown-color: #2a2c2f;
+* --brown-color-rgb: 42, 44, 47;
+* --gray-color: #aaa;
 
 
 
