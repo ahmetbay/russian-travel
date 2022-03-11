@@ -9,3 +9,9 @@
     height: 225px;
   }
 }
+
+@media screen and (max-width: 992px) {
+  .photo-grid__item {
+    height: 264px;
+  }
+}

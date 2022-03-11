@@ -9,3 +9,10 @@
     margin: 48px 48px 0;
   }
 }
+
+@media screen and (max-width: 992px) {
+  .lead {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
