@@ -19,3 +19,9 @@
     margin-top: 90px;
   }
 }
+
+@media screen and (max-width: 720px) {
+  .cover {
+    margin-top: 66px;
+  }
+}

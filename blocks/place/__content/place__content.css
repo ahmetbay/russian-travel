@@ -4,8 +4,9 @@
   row-gap: 26px;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 720px) {
   .place__content {
-    row-gap: 25px;
+    padding: 0 16px;
   }
 }
+

@@ -9,3 +9,12 @@
   margin: 32px auto 0;
   text-align: center;
 }
+
+@media screen and (max-width: 720px) {
+  .lead__subtitle {
+    margin-top: 16px;
+    max-width: 100%;
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}

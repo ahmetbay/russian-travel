@@ -24,3 +24,9 @@
     padding: 115px 0;
   }
 }
+
+@media screen and (max-width: 720px) {
+  .cover__overlay {
+    padding: 33px 16px;
+  }
+}

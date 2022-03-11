@@ -1,3 +1,9 @@
 .page {
+  margin-top: 56px;
+}
 
+@media screen and (max-width: 1199px) {
+  .page {
+    margin-top: 48px;
+  }
 }
