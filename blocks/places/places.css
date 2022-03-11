@@ -2,3 +2,11 @@
   max-width: 984px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1199px) {
+  .places {
+    max-width: 100%;
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
