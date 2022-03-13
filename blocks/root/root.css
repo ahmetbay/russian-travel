@@ -1,5 +1,5 @@
 .root {
   font-family: var(--default-font);
-  font-weight: normal;
+  font-weight: 400;
   background: var(--brown-color);
 }
